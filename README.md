@@ -1,5 +1,5 @@
 # ollama-chat-server
-Gradio chat server using ollama
+Gradio chat server using ollama. Good for offline usage!
 
 ## Instructions
 1. Install Ollama - https://ollama.com/
