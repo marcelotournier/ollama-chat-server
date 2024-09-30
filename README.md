@@ -1,6 +1,8 @@
 # ollama-chat-server
 Gradio chat server using ollama. Good for offline usage!
 
+![chat server screenshot](ui.png)
+
 ## Instructions
 1. Install Ollama - https://ollama.com/
 2. Install requirements - `pip install -r requirements.txt`
